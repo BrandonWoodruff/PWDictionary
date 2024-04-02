@@ -1,0 +1,1 @@
+#cntContent_lstMain > tbody > tr: not first-child > 
