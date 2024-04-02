@@ -1,0 +1,444 @@
+Failed to load resource: the server responded with a status of 404 ()
+74Third-party cookie will be blocked. Learn more in the Issues tab.
+index.html:1 Attestation check for Topics on https://www.uvu.edu/ failed.
+$('#courses-container > div.leftcol > div:nth-child(1)')
+k.fn.init {0: div.course, length: 1, prevObject: k.fn.init}0: div.courseaccessKey: ""align: ""ariaAtomic: nullariaAutoComplete: nullariaBrailleLabel: nullariaBrailleRoleDescription: nullariaBusy: nullariaChecked: nullariaColCount: nullariaColIndex: nullariaColSpan: nullariaCurrent: nullariaDescription: nullariaDisabled: nullariaExpanded: nullariaHasPopup: nullariaHidden: nullariaInvalid: nullariaKeyShortcuts: nullariaLabel: nullariaLevel: nullariaLive: nullariaModal: nullariaMultiLine: nullariaMultiSelectable: nullariaOrientation: nullariaPlaceholder: nullariaPosInSet: nullariaPressed: nullariaReadOnly: nullariaRelevant: nullariaRequired: nullariaRoleDescription: nullariaRowCount: nullariaRowIndex: nullariaRowSpan: nullariaSelected: nullariaSetSize: nullariaSort: nullariaValueMax: nullariaValueMin: nullariaValueNow: nullariaValueText: nullassignedSlot: nullattributeStyleMap: StylePropertyMap {size: 0}attributes: NamedNodeMap {0: class, class: class, length: 1}autocapitalize: ""autofocus: falsebaseURI: "https://www.uvu.edu/catalog/current/courses/computer-science/index.html"childElementCount: 4childNodes: NodeList(9) [text, div.section_number, text, div.class_title, text, div.credits, text, p, text]children: HTMLCollection(4) [div.section_number, div.class_title, div.credits, p]classList: DOMTokenList ['course', value: 'course']className: "course"clientHeight: 375clientLeft: 0clientTop: 0clientWidth: 422contentEditable: "inherit"dataset: DOMStringMap {}dir: ""draggable: falseeditContext: nullelementTiming: ""enterKeyHint: ""firstChild: textfirstElementChild: div.section_numberhidden: falseid: ""inert: falseinnerHTML: "\n                     <div class=\"section_number\">CS 1030<a id=\"CS-1030\"></a></div>\n                     <div class=\"class_title\">Foundations of Computer Science</div>\n                     <div class=\"credits\">3 Credit Hours </div>\n                     <p>Introduces the basics of computing, including computer hardware, and programming concepts\n                        and language. Explores how computers work and how a computer may be programmed. Includes\n                        a brief history of computer, programming languages, and computer numbering systems.\n                        Presents basic programming constructs; students produce a variety of introductory\n                        level programs. Surveys various computing professions. May be delivered hybrid and/or\n                        online.\n                        Lab access fee of $45 computers applies.</p>\n                  "innerText: "CS 1030\nFoundations of Computer Science\n3 Credit Hours\n\nIntroduces the basics of computing, including computer hardware, and programming concepts and language. Explores how computers work and how a computer may be programmed. Includes a brief history of computer, programming languages, and computer numbering systems. Presents basic programming constructs; students produce a variety of introductory level programs. Surveys various computing professions. May be delivered hybrid and/or online. Lab access fee of $45 computers applies."inputMode: ""isConnected: trueisContentEditable: falselang: ""lastChild: textlastElementChild: plocalName: "div"namespaceURI: "http://www.w3.org/1999/xhtml"nextElementSibling: div.coursenextSibling: textnodeName: "DIV"nodeType: 1nodeValue: nullnonce: ""offsetHeight: 375offsetLeft: 40offsetParent: body#index.Catalog.uvu.course-descriptions.DeptNav.DeptFooter.headroom.headroom--top.headroom--not-bottomoffsetTop: 382offsetWidth: 422onabort: nullonanimationend: nullonanimationiteration: nullonanimationstart: nullonauxclick: nullonbeforecopy: nullonbeforecut: nullonbeforeinput: nullonbeforematch: nullonbeforepaste: nullonbeforetoggle: nullonbeforexrselect: nullonblur: nulloncancel: nulloncanplay: nulloncanplaythrough: nullonchange: nullonclick: nullonclose: nulloncontentvisibilityautostatechange: nulloncontextlost: nulloncontextmenu: nulloncontextrestored: nulloncopy: nulloncuechange: nulloncut: nullondblclick: nullondrag: nullondragend: nullondragenter: nullondragleave: nullondragover: nullondragstart: nullondrop: nullondurationchange: nullonemptied: nullonended: nullonerror: nullonfocus: nullonformdata: nullonfullscreenchange: nullonfullscreenerror: nullongotpointercapture: nulloninput: nulloninvalid: nullonkeydown: nullonkeypress: nullonkeyup: nullonload: nullonloadeddata: nullonloadedmetadata: nullonloadstart: nullonlostpointercapture: nullonmousedown: nullonmouseenter: nullonmouseleave: nullonmousemove: nullonmouseout: nullonmouseover: nullonmouseup: nullonmousewheel: nullonpaste: nullonpause: nullonplay: nullonplaying: nullonpointercancel: nullonpointerdown: nullonpointerenter: nullonpointerleave: nullonpointermove: nullonpointerout: nullonpointerover: nullonpointerrawupdate: nullonpointerup: nullonprogress: nullonratechange: nullonreset: nullonresize: nullonscroll: nullonscrollend: nullonsearch: nullonsecuritypolicyviolation: nullonseeked: nullonseeking: nullonselect: nullonselectionchange: nullonselectstart: nullonslotchange: nullonstalled: nullonsubmit: nullonsuspend: nullontimeupdate: nullontoggle: nullontransitioncancel: nullontransitionend: nullontransitionrun: nullontransitionstart: nullonvolumechange: nullonwaiting: nullonwebkitanimationend: nullonwebkitanimationiteration: nullonwebkitanimationstart: nullonwebkitfullscreenchange: nullonwebkitfullscreenerror: nullonwebkittransitionend: nullonwheel: nullouterHTML: "<div class=\"course\">\n                     <div class=\"section_number\">CS 1030<a id=\"CS-1030\"></a></div>\n                     <div class=\"class_title\">Foundations of Computer Science</div>\n                     <div class=\"credits\">3 Credit Hours </div>\n                     <p>Introduces the basics of computing, including computer hardware, and programming concepts\n                        and language. Explores how computers work and how a computer may be programmed. Includes\n                        a brief history of computer, programming languages, and computer numbering systems.\n                        Presents basic programming constructs; students produce a variety of introductory\n                        level programs. Surveys various computing professions. May be delivered hybrid and/or\n                        online.\n                        Lab access fee of $45 computers applies.</p>\n                  </div>"outerText: "CS 1030\nFoundations of Computer Science\n3 Credit Hours\n\nIntroduces the basics of computing, including computer hardware, and programming concepts and language. Explores how computers work and how a computer may be programmed. Includes a brief history of computer, programming languages, and computer numbering systems. Presents basic programming constructs; students produce a variety of introductory level programs. Surveys various computing professions. May be delivered hybrid and/or online. Lab access fee of $45 computers applies."ownerDocument: documentparentElement: div.leftcolparentNode: div.leftcolpart: DOMTokenList [value: '']popover: nullprefix: nullpreviousElementSibling: nullpreviousSibling: textrole: nullscrollHeight: 375scrollLeft: 0scrollTop: 0scrollWidth: 422shadowRoot: nullslot: ""spellcheck: truestyle: CSSStyleDeclaration {accentColor: '', additiveSymbols: '', alignContent: '', alignItems: '', alignSelf: '', …}tabIndex: -1tagName: "DIV"textContent: "\n                     CS 1030\n                     Foundations of Computer Science\n                     3 Credit Hours \n                     Introduces the basics of computing, including computer hardware, and programming concepts\n                        and language. Explores how computers work and how a computer may be programmed. Includes\n                        a brief history of computer, programming languages, and computer numbering systems.\n                        Presents basic programming constructs; students produce a variety of introductory\n                        level programs. Surveys various computing professions. May be delivered hybrid and/or\n                        online.\n                        Lab access fee of $45 computers applies.\n                  "title: ""translate: truevirtualKeyboardPolicy: ""[[Prototype]]: HTMLDivElement(...)length: 1prevObject: k.fn.init {0: document, length: 1}[[Prototype]]: Object
+$('#courses-container > .course')
+k.fn.init {length: 0, prevObject: k.fn.init}
+$('#courses-container > div.leftcol > div:nth-child(2)')
+k.fn.init {0: div.course, length: 1, prevObject: k.fn.init}
+$('course')
+k.fn.init {length: 0, prevObject: k.fn.init}
+$('.course')
+k.fn.init {0: div.course, 1: div.course, 2: div.course, 3: div.course, 4: div.course, 5: div.course, 6: div.course, 7: div.course, 8: div.course, 9: div.course, 10: div.course, 11: div.course, 12: div.course, 13: div.course, 14: div.course, 15: div.course, 16: div.course, 17: div.course, 18: div.course, 19: div.course, 20: div.course, 21: div.course, 22: div.course, 23: div.course, 24: div.course, 25: div.course, 26: div.course, 27: div.course, 28: div.course, 29: div.course, 30: div.course, 31: div.course, 32: div.course, 33: div.course, 34: div.course, 35: div.course, 36: div.course, 37: div.course, 38: div.course, 39: div.course, 40: div.course, 41: div.course, 42: div.course, 43: div.course, 44: div.course, 45: div.course, 46: div.course, 47: div.course, 48: div.course, 49: div.course, 50: div.course, 51: div.course, 52: div.course, 53: div.course, 54: div.course, 55: div.course, 56: div.course, 57: div.course, 58: div.course, 59: div.course, 60: div.course, 61: div.course, 62: div.course, 63: div.course, 64: div.course, 65: div.course, 66: div.course, 67: div.course, 68: div.course, 69: div.course, 70: div.course, 71: div.course, 72: div.course, 73: div.course, 74: div.course, 75: div.course, 76: div.course, 77: div.course, 78: div.course, 79: div.course, 80: div.course, 81: div.course, 82: div.course, 83: div.course, 84: div.course, 85: div.course, 86: div.course, 87: div.course, length: 88, prevObject: k.fn.init}
+typeof $('.course')
+'object'
+typeof [1,2,3]
+'object'
+Array.isArray($('.courses')
+VM1316:1 Uncaught SyntaxError: missing ) after argument list
+Array.isArray($('.courses'))
+false
+Array.isArray([...$('.courses')])
+true
+[...$('.courses')]
+[li.courses]0: li.courseslength: 1[[Prototype]]: Array(0)at: ƒ at()concat: ƒ concat()constructor: ƒ Array()copyWithin: ƒ copyWithin()entries: ƒ entries()every: ƒ every()fill: ƒ fill()filter: ƒ filter()find: ƒ find()findIndex: ƒ findIndex()findLast: ƒ findLast()findLastIndex: ƒ findLastIndex()flat: ƒ flat()flatMap: ƒ flatMap()forEach: ƒ forEach()includes: ƒ includes()indexOf: ƒ indexOf()join: ƒ join()keys: ƒ keys()lastIndexOf: ƒ lastIndexOf()length: 0map: ƒ map()pop: ƒ pop()push: ƒ push()reduce: ƒ reduce()reduceRight: ƒ reduceRight()reverse: ƒ reverse()shift: ƒ shift()slice: ƒ slice()some: ƒ some()sort: ƒ sort()splice: ƒ splice()toLocaleString: ƒ toLocaleString()toReversed: ƒ toReversed()toSorted: ƒ toSorted()toSpliced: ƒ toSpliced()toString: ƒ toString()unshift: ƒ unshift()values: ƒ values()with: ƒ with()Symbol(Symbol.iterator): ƒ values()Symbol(Symbol.unscopables): {at: true, copyWithin: true, entries: true, fill: true, find: true, …}[[Prototype]]: Object
+[...$('.courses')].length
+1
+[...$('.course')]
+(88) [div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course, div.course]
+[...$('.course')][0]
+<div class=​"course">​<div class=​"section_number">​…​</div>​<div class=​"class_title">​Foundations of Computer Science​</div>​<div class=​"credits">​3 Credit Hours ​</div>​<p>​…​</p>​</div>​
+[...$('.course')][0.section_number]
+VM1460:1 Uncaught SyntaxError: Invalid or unexpected token
+[...$('.course')][0].div
+undefined
+[...$('.course')][0][0]
+undefined
+[...$('.course')][0]
+<div class=​"course">​<div class=​"section_number">​…​</div>​<div class=​"class_title">​Foundations of Computer Science​</div>​<div class=​"credits">​3 Credit Hours ​</div>​<p>​…​</p>​</div>​
+[...$('.course')][0].children
+HTMLCollection(4) [div.section_number, div.class_title, div.credits, p]
+[...$('.course')][0].children[0]
+<div class=​"section_number">​"CS 1030"<a id=​"CS-1030">​</a>​</div>​
+[...$('.course')][0].children[0].innerText
+'CS 1030'
+[...$('.course')][0].map(course=>({}))
+VM1712:1 Uncaught TypeError: [(...$(...))][0].map is not a function
+    at <anonymous>:1:22
+(anonymous) @ VM1712:1
+[...$('.course')].map(course=>({}))
+(88) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]0: [[Prototype]]: Objectconstructor: ƒ Object()hasOwnProperty: ƒ hasOwnProperty()isPrototypeOf: ƒ isPrototypeOf()propertyIsEnumerable: ƒ propertyIsEnumerable()toLocaleString: ƒ toLocaleString()toString: ƒ toString()valueOf: ƒ valueOf()__defineGetter__: ƒ __defineGetter__()__defineSetter__: ƒ __defineSetter__()__lookupGetter__: ƒ __lookupGetter__()__lookupSetter__: ƒ __lookupSetter__()__proto__: (...)get __proto__: ƒ __proto__()set __proto__: ƒ __proto__()1: {}2: {}3: {}4: {}5: {}6: {}7: {}8: {}9: {}10: {}11: {}12: {}13: {}14: {}15: {}16: {}17: {}18: {}19: {}20: {}21: {}22: {}23: {}24: {}25: {}26: {}27: {}28: {}29: {}30: {}31: {}32: {}33: {}34: {}35: {}36: {}37: {}38: {}39: {}40: {}41: {}42: {}43: {}44: {}45: {}46: {}47: {}48: {}49: {}50: {}51: {}52: {}53: {}54: {}55: {}56: {}57: {}58: {}59: {}60: {}61: {}62: {}63: {}64: {}65: {}66: {}67: {}68: {}69: {}70: {}71: {}72: {}73: {}74: {}75: {}76: {}77: {}78: {}79: {}80: {}81: {}82: {}83: {}84: {}85: {}86: {}87: {}length: 88[[Prototype]]: Array(0)
+[...$('.course')].map(course=>({name: course.children[0].innertext}))
+(88) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]0: {name: undefined}1: {name: undefined}2: {name: undefined}3: {name: undefined}4: {name: undefined}5: {name: undefined}6: {name: undefined}7: {name: undefined}8: {name: undefined}9: {name: undefined}10: {name: undefined}11: {name: undefined}12: {name: undefined}13: {name: undefined}14: {name: undefined}15: {name: undefined}16: {name: undefined}17: {name: undefined}18: {name: undefined}19: {name: undefined}20: {name: undefined}21: {name: undefined}22: {name: undefined}23: {name: undefined}24: {name: undefined}25: {name: undefined}26: {name: undefined}27: {name: undefined}28: {name: undefined}29: {name: undefined}30: {name: undefined}31: {name: undefined}32: {name: undefined}33: {name: undefined}34: {name: undefined}35: {name: undefined}36: {name: undefined}37: {name: undefined}38: {name: undefined}39: {name: undefined}40: {name: undefined}41: {name: undefined}42: {name: undefined}43: {name: undefined}44: {name: undefined}45: {name: undefined}46: {name: undefined}47: {name: undefined}48: {name: undefined}49: {name: undefined}50: {name: undefined}51: {name: undefined}52: {name: undefined}53: {name: undefined}54: {name: undefined}55: {name: undefined}56: {name: undefined}57: {name: undefined}58: {name: undefined}59: {name: undefined}60: {name: undefined}61: {name: undefined}62: {name: undefined}63: {name: undefined}64: {name: undefined}65: {name: undefined}66: {name: undefined}67: {name: undefined}68: {name: undefined}69: {name: undefined}70: {name: undefined}71: {name: undefined}72: {name: undefined}73: {name: undefined}74: {name: undefined}75: {name: undefined}76: {name: undefined}77: {name: undefined}78: {name: undefined}79: {name: undefined}80: {name: undefined}81: {name: undefined}82: {name: undefined}83: {name: undefined}84: {name: undefined}85: {name: undefined}86: {name: undefined}87: {name: undefined}length: 88[[Prototype]]: Array(0)
+[...$('.course')].map(course=>({name: course.children[0].innerText}))
+(88) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]0: {name: 'CS 1030'}1: {name: 'CS 1400'}2: {name: 'CS 1410'}3: {name: 'CS 2250'}4: {name: 'CS 2300'}5: {name: 'CS 2370'}6: {name: 'CS 2420'}7: {name: 'CS 2450'}8: {name: 'CS 2550'}9: {name: 'CS 2600'}10: {name: 'CS 2690'}11: {name: 'CS 2700'}12: {name: 'CS 2810'}13: {name: 'CS 281R'}14: {name: 'CS 291R'}15: {name: 'CS 296R'}16: {name: 'CS 305G'}17: {name: 'CS 3060'}18: {name: 'CS 3100'}19: {name: 'CS 3110'}20: {name: 'CS 3120'}21: {name: 'CS 3140'}22: {name: 'CS 3240'}23: {name: 'CS 3250'}24: {name: 'CS 3260'}25: {name: 'CS 3270'}26: {name: 'CS 3310'}27: {name: 'CS 3320'}28: {name: 'CS 3370'}29: {name: 'CS 3380'}30: {name: 'CS 339R'}31: {name: 'CS 3410'}32: {name: 'CS 3450'}33: {name: 'CS 3520'}34: {name: 'CS 3530'}35: {name: 'CS 3540'}36: {name: 'CS 3660'}37: {name: 'CS 3670'}38: {name: 'CS 3680'}39: {name: 'CS 3720'}40: {name: 'CS 3800'}41: {name: 'CS 3810'}42: {name: 'CS 3820'}43: {name: 'CS 4120'}44: {name: 'CS 4200'}45: {name: 'CS 4230'}46: {name: 'CS 4380'}47: {name: 'CS 439R'}48: {name: 'CS 4400'}49: {name: 'CS 4440'}50: {name: 'CS 4450'}51: {name: 'CS 4470'}52: {name: 'CS 4480'}53: {name: 'CS 4490'}54: {name: 'CS 4500'}55: {name: 'CS 4550'}56: {name: 'CS 4610'}57: {name: 'CS 4620'}58: {name: 'CS 4660'}59: {name: 'CS 4670'}60: {name: 'CS 4690'}61: {name: 'CS 4700'}62: {name: 'CS 4710'}63: {name: 'CS 4770'}64: {name: 'CS 479R'}65: {name: 'CS 4800'}66: {name: 'CS 481R'}67: {name: 'CS 4880'}68: {name: 'CS 489R'}69: {name: 'CS 4900'}70: {name: 'CS 491R'}71: {name: 'CS 496R'}72: {name: 'CS 6100'}73: {name: 'CS 6150'}74: {name: 'CS 6200'}75: {name: 'CS 6300'}76: {name: 'CS 6400'}77: {name: 'CS 6460'}78: {name: 'CS 6470'}79: {name: 'CS 6480'}80: {name: 'CS 6500'}81: {name: 'CS 6510'}82: {name: 'CS 6600'}83: {name: 'CS 6610'}84: {name: 'CS 6620'}85: {name: 'CS 6700'}86: {name: 'CS 6730'}87: {name: 'CS 6800'}length: 88[[Prototype]]: Array(0)
+[...$('.course')].map(course=>({name: course.children[0].innerText}))
+(88) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+[...$('.course')].map(course=>(
+    {
+        name: course.children[0].innerText,
+        title: course.children[1].innerText
+    }))
+(88) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]0: {name: 'CS 1030', title: 'Foundations of Computer Science'}1: {name: 'CS 1400', title: 'Fundamentals of Programming'}2: {name: 'CS 1410', title: 'Object Oriented Programming'}3: {name: 'CS 2250', title: 'Java Programming'}4: {name: 'CS 2300', title: 'Discrete Mathematical Structures I'}5: {name: 'CS 2370', title: 'C Plus Plus Programming WE'}6: {name: 'CS 2420', title: 'Introduction to Algorithms and Data Structures'}7: {name: 'CS 2450', title: 'Software Engineering'}8: {name: 'CS 2550', title: 'Web Programming I'}9: {name: 'CS 2600', title: 'Computer Networks I'}10: {name: 'CS 2690', title: 'Computer Networks II'}11: {name: 'CS 2700', title: 'Causal Inference'}12: {name: 'CS 2810', title: 'Computer Organization and Architecture'}13: {name: 'CS 281R', title: 'Internship'}14: {name: 'CS 291R', title: 'Independent Study'}15: {name: 'CS 296R', title: 'CS Seminar'}16: {name: 'CS 305G', title: 'Global Social and Ethical Issues in Computing GI WE'}17: {name: 'CS 3060', title: 'Operating Systems Theory'}18: {name: 'CS 3100', title: 'Data Privacy and Security'}19: {name: 'CS 3110', title: 'Applied Cryptography'}20: {name: 'CS 3120', title: 'Ethical Hacking Tools Dev'}21: {name: 'CS 3140', title: 'Network and Cloud Security'}22: {name: 'CS 3240', title: 'Discrete Mathematical Structures II'}23: {name: 'CS 3250', title: 'Java Software Development'}24: {name: 'CS 3260', title: 'CsharpNET Software Development'}25: {name: 'CS 3270', title: 'Python Software Development'}26: {name: 'CS 3310', title: 'Analysis of Algorithms'}27: {name: 'CS 3320', title: 'Numerical Software Development'}28: {name: 'CS 3370', title: 'C Plus Plus Software Development'}29: {name: 'CS 3380', title: 'JavaScript Software Development'}30: {name: 'CS 339R', title: 'Advanced Programming Language Other'}31: {name: 'CS 3410', title: 'Human Factors in Software Development'}32: {name: 'CS 3450', title: 'Principles and Patterns of Software Design'}33: {name: 'CS 3520', title: 'Database Theory'}34: {name: 'CS 3530', title: 'Data Management For Data Sciences'}35: {name: 'CS 3540', title: 'Game Programming'}36: {name: 'CS 3660', title: 'Web Programming II'}37: {name: 'CS 3670', title: 'Network Programming'}38: {name: 'CS 3680', title: 'Mobile Device Programming'}39: {name: 'CS 3720', title: 'Database Programming'}40: {name: 'CS 3800', title: 'Data Science Through Statistical Reasoning'}41: {name: 'CS 3810', title: 'Applied Data Science'}42: {name: 'CS 3820', title: 'Visualization Analytics for Data Science'}43: {name: 'CS 4120', title: 'Security Vulnerability Analysis'}44: {name: 'CS 4200', title: 'Secure Computing Capstone'}45: {name: 'CS 4230', title: 'Software Testing and Quality Engineering'}46: {name: 'CS 4380', title: 'Advanced High Performance Computer Architecture'}47: {name: 'CS 439R', title: 'Advanced Current Topics in Computer Science'}48: {name: 'CS 4400', title: 'Software Engineering II'}49: {name: 'CS 4440', title: 'Applied 3D Computer Graphics'}50: {name: 'CS 4450', title: 'Analysis of Programming Languages'}51: {name: 'CS 4470', title: 'Artificial Intelligence'}52: {name: 'CS 4480', title: 'Digital Image Processing and Computer Vision'}53: {name: 'CS 4490', title: 'Compiler Construction'}54: {name: 'CS 4500', title: 'Advanced Topics in Database'}55: {name: 'CS 4550', title: 'Software Engineering III'}56: {name: 'CS 4610', title: 'TCP IP Internet Architecture'}57: {name: 'CS 4620', title: 'Data Mining'}58: {name: 'CS 4660', title: 'NoSQL Database Development'}59: {name: 'CS 4670', title: 'Undergraduate Research Project for Networking Specialization'}60: {name: 'CS 4690', title: 'Distributed Internet Application Development'}61: {name: 'CS 4700', title: 'Machine Learning I'}62: {name: 'CS 4710', title: 'Machine Learning II'}63: {name: 'CS 4770', title: 'Software Development for Robotics'}64: {name: 'CS 479R', title: 'Advanced Current Topics in Computer Science'}65: {name: 'CS 4800', title: 'Data Science Capstone'}66: {name: 'CS 481R', title: 'Internship'}67: {name: 'CS 4880', title: 'Cloud Computing'}68: {name: 'CS 489R', title: 'Undergraduate Research Project'}69: {name: 'CS 4900', title: 'Full Stack Web Senior Capstone'}70: {name: 'CS 491R', title: 'Independent Study'}71: {name: 'CS 496R', title: 'Senior Seminar'}72: {name: 'CS 6100', title: 'Database Management System Construction'}73: {name: 'CS 6150', title: 'Advanced Algorithms'}74: {name: 'CS 6200', title: 'Cyberphysical Security'}75: {name: 'CS 6300', title: 'Software Engineering Leadership'}76: {name: 'CS 6400', title: 'Modern Databases'}77: {name: 'CS 6460', title: 'Artificial Intelligence'}78: {name: 'CS 6470', title: 'Machine Learning'}79: {name: 'CS 6480', title: 'Advanced Machine Learning'}80: {name: 'CS 6500', title: 'Software Architecture'}81: {name: 'CS 6510', title: 'Design and Simulation of Operating Systems'}82: {name: 'CS 6600', title: 'Graduate Project I'}83: {name: 'CS 6610', title: 'Graduate Project II'}84: {name: 'CS 6620', title: 'Advanced Data Mining and Visualization'}85: {name: 'CS 6700', title: 'Advanced Mathematics for Computer Science'}86: {name: 'CS 6730', title: 'Advanced Embedded Systems Engineering'}87: {name: 'CS 6800', title: 'Computer Graphics and Mixed Realities'}length: 88[[Prototype]]: Array(0)at: ƒ at()concat: ƒ concat()constructor: ƒ Array()copyWithin: ƒ copyWithin()entries: ƒ entries()every: ƒ every()fill: ƒ fill()filter: ƒ filter()find: ƒ find()findIndex: ƒ findIndex()findLast: ƒ findLast()findLastIndex: ƒ findLastIndex()flat: ƒ flat()flatMap: ƒ flatMap()forEach: ƒ forEach()includes: ƒ includes()indexOf: ƒ indexOf()join: ƒ join()keys: ƒ keys()lastIndexOf: ƒ lastIndexOf()length: 0map: ƒ map()pop: ƒ pop()push: ƒ push()reduce: ƒ reduce()reduceRight: ƒ reduceRight()reverse: ƒ reverse()shift: ƒ shift()slice: ƒ slice()some: ƒ some()sort: ƒ sort()splice: ƒ splice()toLocaleString: ƒ toLocaleString()toReversed: ƒ toReversed()toSorted: ƒ toSorted()toSpliced: ƒ toSpliced()toString: ƒ toString()unshift: ƒ unshift()values: ƒ values()with: ƒ with()Symbol(Symbol.iterator): ƒ values()Symbol(Symbol.unscopables): {at: true, copyWithin: true, entries: true, fill: true, find: true, …}[[Prototype]]: Object
+console.log([...$('.course')].map(course=>(
+    {
+        name: course.children[0].innerText,
+        title: course.children[1].innerText
+    })))
+VM1910:1 (88) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]0: {name: 'CS 1030', title: 'Foundations of Computer Science'}1: {name: 'CS 1400', title: 'Fundamentals of Programming'}2: {name: 'CS 1410', title: 'Object Oriented Programming'}3: {name: 'CS 2250', title: 'Java Programming'}4: {name: 'CS 2300', title: 'Discrete Mathematical Structures I'}5: {name: 'CS 2370', title: 'C Plus Plus Programming WE'}6: {name: 'CS 2420', title: 'Introduction to Algorithms and Data Structures'}7: {name: 'CS 2450', title: 'Software Engineering'}8: {name: 'CS 2550', title: 'Web Programming I'}9: {name: 'CS 2600', title: 'Computer Networks I'}10: {name: 'CS 2690', title: 'Computer Networks II'}11: {name: 'CS 2700', title: 'Causal Inference'}12: {name: 'CS 2810', title: 'Computer Organization and Architecture'}13: {name: 'CS 281R', title: 'Internship'}14: {name: 'CS 291R', title: 'Independent Study'}15: {name: 'CS 296R', title: 'CS Seminar'}16: {name: 'CS 305G', title: 'Global Social and Ethical Issues in Computing GI WE'}17: {name: 'CS 3060', title: 'Operating Systems Theory'}18: {name: 'CS 3100', title: 'Data Privacy and Security'}19: {name: 'CS 3110', title: 'Applied Cryptography'}20: {name: 'CS 3120', title: 'Ethical Hacking Tools Dev'}21: {name: 'CS 3140', title: 'Network and Cloud Security'}22: {name: 'CS 3240', title: 'Discrete Mathematical Structures II'}23: {name: 'CS 3250', title: 'Java Software Development'}24: {name: 'CS 3260', title: 'CsharpNET Software Development'}25: {name: 'CS 3270', title: 'Python Software Development'}26: {name: 'CS 3310', title: 'Analysis of Algorithms'}27: {name: 'CS 3320', title: 'Numerical Software Development'}28: {name: 'CS 3370', title: 'C Plus Plus Software Development'}29: {name: 'CS 3380', title: 'JavaScript Software Development'}30: {name: 'CS 339R', title: 'Advanced Programming Language Other'}31: {name: 'CS 3410', title: 'Human Factors in Software Development'}32: {name: 'CS 3450', title: 'Principles and Patterns of Software Design'}33: {name: 'CS 3520', title: 'Database Theory'}34: {name: 'CS 3530', title: 'Data Management For Data Sciences'}35: {name: 'CS 3540', title: 'Game Programming'}36: {name: 'CS 3660', title: 'Web Programming II'}37: {name: 'CS 3670', title: 'Network Programming'}38: {name: 'CS 3680', title: 'Mobile Device Programming'}39: {name: 'CS 3720', title: 'Database Programming'}40: {name: 'CS 3800', title: 'Data Science Through Statistical Reasoning'}41: {name: 'CS 3810', title: 'Applied Data Science'}42: {name: 'CS 3820', title: 'Visualization Analytics for Data Science'}43: {name: 'CS 4120', title: 'Security Vulnerability Analysis'}44: {name: 'CS 4200', title: 'Secure Computing Capstone'}45: {name: 'CS 4230', title: 'Software Testing and Quality Engineering'}46: {name: 'CS 4380', title: 'Advanced High Performance Computer Architecture'}47: {name: 'CS 439R', title: 'Advanced Current Topics in Computer Science'}48: {name: 'CS 4400', title: 'Software Engineering II'}49: {name: 'CS 4440', title: 'Applied 3D Computer Graphics'}50: {name: 'CS 4450', title: 'Analysis of Programming Languages'}51: {name: 'CS 4470', title: 'Artificial Intelligence'}52: {name: 'CS 4480', title: 'Digital Image Processing and Computer Vision'}53: {name: 'CS 4490', title: 'Compiler Construction'}54: {name: 'CS 4500', title: 'Advanced Topics in Database'}55: {name: 'CS 4550', title: 'Software Engineering III'}56: {name: 'CS 4610', title: 'TCP IP Internet Architecture'}57: {name: 'CS 4620', title: 'Data Mining'}58: {name: 'CS 4660', title: 'NoSQL Database Development'}59: {name: 'CS 4670', title: 'Undergraduate Research Project for Networking Specialization'}60: {name: 'CS 4690', title: 'Distributed Internet Application Development'}61: {name: 'CS 4700', title: 'Machine Learning I'}62: {name: 'CS 4710', title: 'Machine Learning II'}63: {name: 'CS 4770', title: 'Software Development for Robotics'}64: {name: 'CS 479R', title: 'Advanced Current Topics in Computer Science'}65: {name: 'CS 4800', title: 'Data Science Capstone'}66: {name: 'CS 481R', title: 'Internship'}67: {name: 'CS 4880', title: 'Cloud Computing'}68: {name: 'CS 489R', title: 'Undergraduate Research Project'}69: {name: 'CS 4900', title: 'Full Stack Web Senior Capstone'}70: {name: 'CS 491R', title: 'Independent Study'}71: {name: 'CS 496R', title: 'Senior Seminar'}72: {name: 'CS 6100', title: 'Database Management System Construction'}73: {name: 'CS 6150', title: 'Advanced Algorithms'}74: {name: 'CS 6200', title: 'Cyberphysical Security'}75: {name: 'CS 6300', title: 'Software Engineering Leadership'}76: {name: 'CS 6400', title: 'Modern Databases'}77: {name: 'CS 6460', title: 'Artificial Intelligence'}78: {name: 'CS 6470', title: 'Machine Learning'}79: {name: 'CS 6480', title: 'Advanced Machine Learning'}80: {name: 'CS 6500', title: 'Software Architecture'}81: {name: 'CS 6510', title: 'Design and Simulation of Operating Systems'}82: {name: 'CS 6600', title: 'Graduate Project I'}83: {name: 'CS 6610', title: 'Graduate Project II'}84: {name: 'CS 6620', title: 'Advanced Data Mining and Visualization'}85: {name: 'CS 6700', title: 'Advanced Mathematics for Computer Science'}86: {name: 'CS 6730', title: 'Advanced Embedded Systems Engineering'}87: {name: 'CS 6800', title: 'Computer Graphics and Mixed Realities'}length: 88[[Prototype]]: Array(0)
+undefined
+console.log(JSON.stringify([...$('.course')].map(course=>(
+    {
+        name: course.children[0].innerText,
+        title: course.children[1].innerText
+    }))))
+VM1939:1 [{"name":"CS 1030","title":"Foundations of Computer Science"},{"name":"CS 1400","title":"Fundamentals of Programming"},{"name":"CS 1410","title":"Object Oriented Programming"},{"name":"CS 2250","title":"Java Programming"},{"name":"CS 2300","title":"Discrete Mathematical Structures I"},{"name":"CS 2370","title":"C Plus Plus Programming WE"},{"name":"CS 2420","title":"Introduction to Algorithms and Data Structures"},{"name":"CS 2450","title":"Software Engineering"},{"name":"CS 2550","title":"Web Programming I"},{"name":"CS 2600","title":"Computer Networks I"},{"name":"CS 2690","title":"Computer Networks II"},{"name":"CS 2700","title":"Causal Inference"},{"name":"CS 2810","title":"Computer Organization and Architecture"},{"name":"CS 281R","title":"Internship"},{"name":"CS 291R","title":"Independent Study"},{"name":"CS 296R","title":"CS Seminar"},{"name":"CS 305G","title":"Global Social and Ethical Issues in Computing GI WE"},{"name":"CS 3060","title":"Operating Systems Theory"},{"name":"CS 3100","title":"Data Privacy and Security"},{"name":"CS 3110","title":"Applied Cryptography"},{"name":"CS 3120","title":"Ethical Hacking Tools Dev"},{"name":"CS 3140","title":"Network and Cloud Security"},{"name":"CS 3240","title":"Discrete Mathematical Structures II"},{"name":"CS 3250","title":"Java Software Development"},{"name":"CS 3260","title":"CsharpNET Software Development"},{"name":"CS 3270","title":"Python Software Development"},{"name":"CS 3310","title":"Analysis of Algorithms"},{"name":"CS 3320","title":"Numerical Software Development"},{"name":"CS 3370","title":"C Plus Plus Software Development"},{"name":"CS 3380","title":"JavaScript Software Development"},{"name":"CS 339R","title":"Advanced Programming Language Other"},{"name":"CS 3410","title":"Human Factors in Software Development"},{"name":"CS 3450","title":"Principles and Patterns of Software Design"},{"name":"CS 3520","title":"Database Theory"},{"name":"CS 3530","title":"Data Management For Data Sciences"},{"name":"CS 3540","title":"Game Programming"},{"name":"CS 3660","title":"Web Programming II"},{"name":"CS 3670","title":"Network Programming"},{"name":"CS 3680","title":"Mobile Device Programming"},{"name":"CS 3720","title":"Database Programming"},{"name":"CS 3800","title":"Data Science Through Statistical Reasoning"},{"name":"CS 3810","title":"Applied Data Science"},{"name":"CS 3820","title":"Visualization Analytics for Data Science"},{"name":"CS 4120","title":"Security Vulnerability Analysis"},{"name":"CS 4200","title":"Secure Computing Capstone"},{"name":"CS 4230","title":"Software Testing and Quality Engineering"},{"name":"CS 4380","title":"Advanced High Performance Computer Architecture"},{"name":"CS 439R","title":"Advanced Current Topics in Computer Science"},{"name":"CS 4400","title":"Software Engineering II"},{"name":"CS 4440","title":"Applied 3D Computer Graphics"},{"name":"CS 4450","title":"Analysis of Programming Languages"},{"name":"CS 4470","title":"Artificial Intelligence"},{"name":"CS 4480","title":"Digital Image Processing and Computer Vision"},{"name":"CS 4490","title":"Compiler Construction"},{"name":"CS 4500","title":"Advanced Topics in Database"},{"name":"CS 4550","title":"Software Engineering III"},{"name":"CS 4610","title":"TCP IP Internet Architecture"},{"name":"CS 4620","title":"Data Mining"},{"name":"CS 4660","title":"NoSQL Database Development"},{"name":"CS 4670","title":"Undergraduate Research Project for Networking Specialization"},{"name":"CS 4690","title":"Distributed Internet Application Development"},{"name":"CS 4700","title":"Machine Learning I"},{"name":"CS 4710","title":"Machine Learning II"},{"name":"CS 4770","title":"Software Development for Robotics"},{"name":"CS 479R","title":"Advanced Current Topics in Computer Science"},{"name":"CS 4800","title":"Data Science Capstone"},{"name":"CS 481R","title":"Internship"},{"name":"CS 4880","title":"Cloud Computing"},{"name":"CS 489R","title":"Undergraduate Research Project"},{"name":"CS 4900","title":"Full Stack Web Senior Capstone"},{"name":"CS 491R","title":"Independent Study"},{"name":"CS 496R","title":"Senior Seminar"},{"name":"CS 6100","title":"Database Management System Construction"},{"name":"CS 6150","title":"Advanced Algorithms"},{"name":"CS 6200","title":"Cyberphysical Security"},{"name":"CS 6300","title":"Software Engineering Leadership"},{"name":"CS 6400","title":"Modern Databases"},{"name":"CS 6460","title":"Artificial Intelligence"},{"name":"CS 6470","title":"Machine Learning"},{"name":"CS 6480","title":"Advanced Machine Learning"},{"name":"CS 6500","title":"Software Architecture"},{"name":"CS 6510","title":"Design and Simulation of Operating Systems"},{"name":"CS 6600","title":"Graduate Project I"},{"name":"CS 6610","title":"Graduate Project II"},{"name":"CS 6620","title":"Advanced Data Mining and Visualization"},{"name":"CS 6700","title":"Advanced Mathematics for Computer Science"},{"name":"CS 6730","title":"Advanced Embedded Systems Engineering"},{"name":"CS 6800","title":"Computer Graphics and Mixed Realities"}]
+undefined
+console.log(JSON.stringify([...$('.course')].map(course=>(
+    {
+        name: course.children[0].innerText,
+        title: course.children[1].innerText
+    }))),null, 2)
+VM1994:1 [{"name":"CS 1030","title":"Foundations of Computer Science"},{"name":"CS 1400","title":"Fundamentals of Programming"},{"name":"CS 1410","title":"Object Oriented Programming"},{"name":"CS 2250","title":"Java Programming"},{"name":"CS 2300","title":"Discrete Mathematical Structures I"},{"name":"CS 2370","title":"C Plus Plus Programming WE"},{"name":"CS 2420","title":"Introduction to Algorithms and Data Structures"},{"name":"CS 2450","title":"Software Engineering"},{"name":"CS 2550","title":"Web Programming I"},{"name":"CS 2600","title":"Computer Networks I"},{"name":"CS 2690","title":"Computer Networks II"},{"name":"CS 2700","title":"Causal Inference"},{"name":"CS 2810","title":"Computer Organization and Architecture"},{"name":"CS 281R","title":"Internship"},{"name":"CS 291R","title":"Independent Study"},{"name":"CS 296R","title":"CS Seminar"},{"name":"CS 305G","title":"Global Social and Ethical Issues in Computing GI WE"},{"name":"CS 3060","title":"Operating Systems Theory"},{"name":"CS 3100","title":"Data Privacy and Security"},{"name":"CS 3110","title":"Applied Cryptography"},{"name":"CS 3120","title":"Ethical Hacking Tools Dev"},{"name":"CS 3140","title":"Network and Cloud Security"},{"name":"CS 3240","title":"Discrete Mathematical Structures II"},{"name":"CS 3250","title":"Java Software Development"},{"name":"CS 3260","title":"CsharpNET Software Development"},{"name":"CS 3270","title":"Python Software Development"},{"name":"CS 3310","title":"Analysis of Algorithms"},{"name":"CS 3320","title":"Numerical Software Development"},{"name":"CS 3370","title":"C Plus Plus Software Development"},{"name":"CS 3380","title":"JavaScript Software Development"},{"name":"CS 339R","title":"Advanced Programming Language Other"},{"name":"CS 3410","title":"Human Factors in Software Development"},{"name":"CS 3450","title":"Principles and Patterns of Software Design"},{"name":"CS 3520","title":"Database Theory"},{"name":"CS 3530","title":"Data Management For Data Sciences"},{"name":"CS 3540","title":"Game Programming"},{"name":"CS 3660","title":"Web Programming II"},{"name":"CS 3670","title":"Network Programming"},{"name":"CS 3680","title":"Mobile Device Programming"},{"name":"CS 3720","title":"Database Programming"},{"name":"CS 3800","title":"Data Science Through Statistical Reasoning"},{"name":"CS 3810","title":"Applied Data Science"},{"name":"CS 3820","title":"Visualization Analytics for Data Science"},{"name":"CS 4120","title":"Security Vulnerability Analysis"},{"name":"CS 4200","title":"Secure Computing Capstone"},{"name":"CS 4230","title":"Software Testing and Quality Engineering"},{"name":"CS 4380","title":"Advanced High Performance Computer Architecture"},{"name":"CS 439R","title":"Advanced Current Topics in Computer Science"},{"name":"CS 4400","title":"Software Engineering II"},{"name":"CS 4440","title":"Applied 3D Computer Graphics"},{"name":"CS 4450","title":"Analysis of Programming Languages"},{"name":"CS 4470","title":"Artificial Intelligence"},{"name":"CS 4480","title":"Digital Image Processing and Computer Vision"},{"name":"CS 4490","title":"Compiler Construction"},{"name":"CS 4500","title":"Advanced Topics in Database"},{"name":"CS 4550","title":"Software Engineering III"},{"name":"CS 4610","title":"TCP IP Internet Architecture"},{"name":"CS 4620","title":"Data Mining"},{"name":"CS 4660","title":"NoSQL Database Development"},{"name":"CS 4670","title":"Undergraduate Research Project for Networking Specialization"},{"name":"CS 4690","title":"Distributed Internet Application Development"},{"name":"CS 4700","title":"Machine Learning I"},{"name":"CS 4710","title":"Machine Learning II"},{"name":"CS 4770","title":"Software Development for Robotics"},{"name":"CS 479R","title":"Advanced Current Topics in Computer Science"},{"name":"CS 4800","title":"Data Science Capstone"},{"name":"CS 481R","title":"Internship"},{"name":"CS 4880","title":"Cloud Computing"},{"name":"CS 489R","title":"Undergraduate Research Project"},{"name":"CS 4900","title":"Full Stack Web Senior Capstone"},{"name":"CS 491R","title":"Independent Study"},{"name":"CS 496R","title":"Senior Seminar"},{"name":"CS 6100","title":"Database Management System Construction"},{"name":"CS 6150","title":"Advanced Algorithms"},{"name":"CS 6200","title":"Cyberphysical Security"},{"name":"CS 6300","title":"Software Engineering Leadership"},{"name":"CS 6400","title":"Modern Databases"},{"name":"CS 6460","title":"Artificial Intelligence"},{"name":"CS 6470","title":"Machine Learning"},{"name":"CS 6480","title":"Advanced Machine Learning"},{"name":"CS 6500","title":"Software Architecture"},{"name":"CS 6510","title":"Design and Simulation of Operating Systems"},{"name":"CS 6600","title":"Graduate Project I"},{"name":"CS 6610","title":"Graduate Project II"},{"name":"CS 6620","title":"Advanced Data Mining and Visualization"},{"name":"CS 6700","title":"Advanced Mathematics for Computer Science"},{"name":"CS 6730","title":"Advanced Embedded Systems Engineering"},{"name":"CS 6800","title":"Computer Graphics and Mixed Realities"}] null 2
+undefined
+console.log(JSON.stringify([...$('.course')].map(course=>(
+    {
+        name: course.children[0].innerText,
+        title: course.children[1].innerText
+    })),null, 2))
+VM2046:1 [
+  {
+    "name": "CS 1030",
+    "title": "Foundations of Computer Science"
+  },
+  {
+    "name": "CS 1400",
+    "title": "Fundamentals of Programming"
+  },
+  {
+    "name": "CS 1410",
+    "title": "Object Oriented Programming"
+  },
+  {
+    "name": "CS 2250",
+    "title": "Java Programming"
+  },
+  {
+    "name": "CS 2300",
+    "title": "Discrete Mathematical Structures I"
+  },
+  {
+    "name": "CS 2370",
+    "title": "C Plus Plus Programming WE"
+  },
+  {
+    "name": "CS 2420",
+    "title": "Introduction to Algorithms and Data Structures"
+  },
+  {
+    "name": "CS 2450",
+    "title": "Software Engineering"
+  },
+  {
+    "name": "CS 2550",
+    "title": "Web Programming I"
+  },
+  {
+    "name": "CS 2600",
+    "title": "Computer Networks I"
+  },
+  {
+    "name": "CS 2690",
+    "title": "Computer Networks II"
+  },
+  {
+    "name": "CS 2700",
+    "title": "Causal Inference"
+  },
+  {
+    "name": "CS 2810",
+    "title": "Computer Organization and Architecture"
+  },
+  {
+    "name": "CS 281R",
+    "title": "Internship"
+  },
+  {
+    "name": "CS 291R",
+    "title": "Independent Study"
+  },
+  {
+    "name": "CS 296R",
+    "title": "CS Seminar"
+  },
+  {
+    "name": "CS 305G",
+    "title": "Global Social and Ethical Issues in Computing GI WE"
+  },
+  {
+    "name": "CS 3060",
+    "title": "Operating Systems Theory"
+  },
+  {
+    "name": "CS 3100",
+    "title": "Data Privacy and Security"
+  },
+  {
+    "name": "CS 3110",
+    "title": "Applied Cryptography"
+  },
+  {
+    "name": "CS 3120",
+    "title": "Ethical Hacking Tools Dev"
+  },
+  {
+    "name": "CS 3140",
+    "title": "Network and Cloud Security"
+  },
+  {
+    "name": "CS 3240",
+    "title": "Discrete Mathematical Structures II"
+  },
+  {
+    "name": "CS 3250",
+    "title": "Java Software Development"
+  },
+  {
+    "name": "CS 3260",
+    "title": "CsharpNET Software Development"
+  },
+  {
+    "name": "CS 3270",
+    "title": "Python Software Development"
+  },
+  {
+    "name": "CS 3310",
+    "title": "Analysis of Algorithms"
+  },
+  {
+    "name": "CS 3320",
+    "title": "Numerical Software Development"
+  },
+  {
+    "name": "CS 3370",
+    "title": "C Plus Plus Software Development"
+  },
+  {
+    "name": "CS 3380",
+    "title": "JavaScript Software Development"
+  },
+  {
+    "name": "CS 339R",
+    "title": "Advanced Programming Language Other"
+  },
+  {
+    "name": "CS 3410",
+    "title": "Human Factors in Software Development"
+  },
+  {
+    "name": "CS 3450",
+    "title": "Principles and Patterns of Software Design"
+  },
+  {
+    "name": "CS 3520",
+    "title": "Database Theory"
+  },
+  {
+    "name": "CS 3530",
+    "title": "Data Management For Data Sciences"
+  },
+  {
+    "name": "CS 3540",
+    "title": "Game Programming"
+  },
+  {
+    "name": "CS 3660",
+    "title": "Web Programming II"
+  },
+  {
+    "name": "CS 3670",
+    "title": "Network Programming"
+  },
+  {
+    "name": "CS 3680",
+    "title": "Mobile Device Programming"
+  },
+  {
+    "name": "CS 3720",
+    "title": "Database Programming"
+  },
+  {
+    "name": "CS 3800",
+    "title": "Data Science Through Statistical Reasoning"
+  },
+  {
+    "name": "CS 3810",
+    "title": "Applied Data Science"
+  },
+  {
+    "name": "CS 3820",
+    "title": "Visualization Analytics for Data Science"
+  },
+  {
+    "name": "CS 4120",
+    "title": "Security Vulnerability Analysis"
+  },
+  {
+    "name": "CS 4200",
+    "title": "Secure Computing Capstone"
+  },
+  {
+    "name": "CS 4230",
+    "title": "Software Testing and Quality Engineering"
+  },
+  {
+    "name": "CS 4380",
+    "title": "Advanced High Performance Computer Architecture"
+  },
+  {
+    "name": "CS 439R",
+    "title": "Advanced Current Topics in Computer Science"
+  },
+  {
+    "name": "CS 4400",
+    "title": "Software Engineering II"
+  },
+  {
+    "name": "CS 4440",
+    "title": "Applied 3D Computer Graphics"
+  },
+  {
+    "name": "CS 4450",
+    "title": "Analysis of Programming Languages"
+  },
+  {
+    "name": "CS 4470",
+    "title": "Artificial Intelligence"
+  },
+  {
+    "name": "CS 4480",
+    "title": "Digital Image Processing and Computer Vision"
+  },
+  {
+    "name": "CS 4490",
+    "title": "Compiler Construction"
+  },
+  {
+    "name": "CS 4500",
+    "title": "Advanced Topics in Database"
+  },
+  {
+    "name": "CS 4550",
+    "title": "Software Engineering III"
+  },
+  {
+    "name": "CS 4610",
+    "title": "TCP IP Internet Architecture"
+  },
+  {
+    "name": "CS 4620",
+    "title": "Data Mining"
+  },
+  {
+    "name": "CS 4660",
+    "title": "NoSQL Database Development"
+  },
+  {
+    "name": "CS 4670",
+    "title": "Undergraduate Research Project for Networking Specialization"
+  },
+  {
+    "name": "CS 4690",
+    "title": "Distributed Internet Application Development"
+  },
+  {
+    "name": "CS 4700",
+    "title": "Machine Learning I"
+  },
+  {
+    "name": "CS 4710",
+    "title": "Machine Learning II"
+  },
+  {
+    "name": "CS 4770",
+    "title": "Software Development for Robotics"
+  },
+  {
+    "name": "CS 479R",
+    "title": "Advanced Current Topics in Computer Science"
+  },
+  {
+    "name": "CS 4800",
+    "title": "Data Science Capstone"
+  },
+  {
+    "name": "CS 481R",
+    "title": "Internship"
+  },
+  {
+    "name": "CS 4880",
+    "title": "Cloud Computing"
+  },
+  {
+    "name": "CS 489R",
+    "title": "Undergraduate Research Project"
+  },
+  {
+    "name": "CS 4900",
+    "title": "Full Stack Web Senior Capstone"
+  },
+  {
+    "name": "CS 491R",
+    "title": "Independent Study"
+  },
+  {
+    "name": "CS 496R",
+    "title": "Senior Seminar"
+  },
+  {
+    "name": "CS 6100",
+    "title": "Database Management System Construction"
+  },
+  {
+    "name": "CS 6150",
+    "title": "Advanced Algorithms"
+  },
+  {
+    "name": "CS 6200",
+    "title": "Cyberphysical Security"
+  },
+  {
+    "name": "CS 6300",
+    "title": "Software Engineering Leadership"
+  },
+  {
+    "name": "CS 6400",
+    "title": "Modern Databases"
+  },
+  {
+    "name": "CS 6460",
+    "title": "Artificial Intelligence"
+  },
+  {
+    "name": "CS 6470",
+    "title": "Machine Learning"
+  },
+  {
+    "name": "CS 6480",
+    "title": "Advanced Machine Learning"
+  },
+  {
+    "name": "CS 6500",
+    "title": "Software Architecture"
+  },
+  {
+    "name": "CS 6510",
+    "title": "Design and Simulation of Operating Systems"
+  },
+  {
+    "name": "CS 6600",
+    "title": "Graduate Project I"
+  },
+  {
+    "name": "CS 6610",
+    "title": "Graduate Project II"
+  },
+  {
+    "name": "CS 6620",
+    "title": "Advanced Data Mining and Visualization"
+  },
+  {
+    "name": "CS 6700",
+    "title": "Advanced Mathematics for Computer Science"
+  },
+  {
+    "name": "CS 6730",
+    "title": "Advanced Embedded Systems Engineering"
+  },
+  {
+    "name": "CS 6800",
+    "title": "Computer Graphics and Mixed Realities"
+  }
+]
+undefined

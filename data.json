@@ -1,0 +1,354 @@
+[
+  {
+    "name": "CS 1030",
+    "title": "Foundations of Computer Science"
+  },
+  {
+    "name": "CS 1400",
+    "title": "Fundamentals of Programming"
+  },
+  {
+    "name": "CS 1410",
+    "title": "Object Oriented Programming"
+  },
+  {
+    "name": "CS 2250",
+    "title": "Java Programming"
+  },
+  {
+    "name": "CS 2300",
+    "title": "Discrete Mathematical Structures I"
+  },
+  {
+    "name": "CS 2370",
+    "title": "C Plus Plus Programming WE"
+  },
+  {
+    "name": "CS 2420",
+    "title": "Introduction to Algorithms and Data Structures"
+  },
+  {
+    "name": "CS 2450",
+    "title": "Software Engineering"
+  },
+  {
+    "name": "CS 2550",
+    "title": "Web Programming I"
+  },
+  {
+    "name": "CS 2600",
+    "title": "Computer Networks I"
+  },
+  {
+    "name": "CS 2690",
+    "title": "Computer Networks II"
+  },
+  {
+    "name": "CS 2700",
+    "title": "Causal Inference"
+  },
+  {
+    "name": "CS 2810",
+    "title": "Computer Organization and Architecture"
+  },
+  {
+    "name": "CS 281R",
+    "title": "Internship"
+  },
+  {
+    "name": "CS 291R",
+    "title": "Independent Study"
+  },
+  {
+    "name": "CS 296R",
+    "title": "CS Seminar"
+  },
+  {
+    "name": "CS 305G",
+    "title": "Global Social and Ethical Issues in Computing GI WE"
+  },
+  {
+    "name": "CS 3060",
+    "title": "Operating Systems Theory"
+  },
+  {
+    "name": "CS 3100",
+    "title": "Data Privacy and Security"
+  },
+  {
+    "name": "CS 3110",
+    "title": "Applied Cryptography"
+  },
+  {
+    "name": "CS 3120",
+    "title": "Ethical Hacking Tools Dev"
+  },
+  {
+    "name": "CS 3140",
+    "title": "Network and Cloud Security"
+  },
+  {
+    "name": "CS 3240",
+    "title": "Discrete Mathematical Structures II"
+  },
+  {
+    "name": "CS 3250",
+    "title": "Java Software Development"
+  },
+  {
+    "name": "CS 3260",
+    "title": "CsharpNET Software Development"
+  },
+  {
+    "name": "CS 3270",
+    "title": "Python Software Development"
+  },
+  {
+    "name": "CS 3310",
+    "title": "Analysis of Algorithms"
+  },
+  {
+    "name": "CS 3320",
+    "title": "Numerical Software Development"
+  },
+  {
+    "name": "CS 3370",
+    "title": "C Plus Plus Software Development"
+  },
+  {
+    "name": "CS 3380",
+    "title": "JavaScript Software Development"
+  },
+  {
+    "name": "CS 339R",
+    "title": "Advanced Programming Language Other"
+  },
+  {
+    "name": "CS 3410",
+    "title": "Human Factors in Software Development"
+  },
+  {
+    "name": "CS 3450",
+    "title": "Principles and Patterns of Software Design"
+  },
+  {
+    "name": "CS 3520",
+    "title": "Database Theory"
+  },
+  {
+    "name": "CS 3530",
+    "title": "Data Management For Data Sciences"
+  },
+  {
+    "name": "CS 3540",
+    "title": "Game Programming"
+  },
+  {
+    "name": "CS 3660",
+    "title": "Web Programming II"
+  },
+  {
+    "name": "CS 3670",
+    "title": "Network Programming"
+  },
+  {
+    "name": "CS 3680",
+    "title": "Mobile Device Programming"
+  },
+  {
+    "name": "CS 3720",
+    "title": "Database Programming"
+  },
+  {
+    "name": "CS 3800",
+    "title": "Data Science Through Statistical Reasoning"
+  },
+  {
+    "name": "CS 3810",
+    "title": "Applied Data Science"
+  },
+  {
+    "name": "CS 3820",
+    "title": "Visualization Analytics for Data Science"
+  },
+  {
+    "name": "CS 4120",
+    "title": "Security Vulnerability Analysis"
+  },
+  {
+    "name": "CS 4200",
+    "title": "Secure Computing Capstone"
+  },
+  {
+    "name": "CS 4230",
+    "title": "Software Testing and Quality Engineering"
+  },
+  {
+    "name": "CS 4380",
+    "title": "Advanced High Performance Computer Architecture"
+  },
+  {
+    "name": "CS 439R",
+    "title": "Advanced Current Topics in Computer Science"
+  },
+  {
+    "name": "CS 4400",
+    "title": "Software Engineering II"
+  },
+  {
+    "name": "CS 4440",
+    "title": "Applied 3D Computer Graphics"
+  },
+  {
+    "name": "CS 4450",
+    "title": "Analysis of Programming Languages"
+  },
+  {
+    "name": "CS 4470",
+    "title": "Artificial Intelligence"
+  },
+  {
+    "name": "CS 4480",
+    "title": "Digital Image Processing and Computer Vision"
+  },
+  {
+    "name": "CS 4490",
+    "title": "Compiler Construction"
+  },
+  {
+    "name": "CS 4500",
+    "title": "Advanced Topics in Database"
+  },
+  {
+    "name": "CS 4550",
+    "title": "Software Engineering III"
+  },
+  {
+    "name": "CS 4610",
+    "title": "TCP IP Internet Architecture"
+  },
+  {
+    "name": "CS 4620",
+    "title": "Data Mining"
+  },
+  {
+    "name": "CS 4660",
+    "title": "NoSQL Database Development"
+  },
+  {
+    "name": "CS 4670",
+    "title": "Undergraduate Research Project for Networking Specialization"
+  },
+  {
+    "name": "CS 4690",
+    "title": "Distributed Internet Application Development"
+  },
+  {
+    "name": "CS 4700",
+    "title": "Machine Learning I"
+  },
+  {
+    "name": "CS 4710",
+    "title": "Machine Learning II"
+  },
+  {
+    "name": "CS 4770",
+    "title": "Software Development for Robotics"
+  },
+  {
+    "name": "CS 479R",
+    "title": "Advanced Current Topics in Computer Science"
+  },
+  {
+    "name": "CS 4800",
+    "title": "Data Science Capstone"
+  },
+  {
+    "name": "CS 481R",
+    "title": "Internship"
+  },
+  {
+    "name": "CS 4880",
+    "title": "Cloud Computing"
+  },
+  {
+    "name": "CS 489R",
+    "title": "Undergraduate Research Project"
+  },
+  {
+    "name": "CS 4900",
+    "title": "Full Stack Web Senior Capstone"
+  },
+  {
+    "name": "CS 491R",
+    "title": "Independent Study"
+  },
+  {
+    "name": "CS 496R",
+    "title": "Senior Seminar"
+  },
+  {
+    "name": "CS 6100",
+    "title": "Database Management System Construction"
+  },
+  {
+    "name": "CS 6150",
+    "title": "Advanced Algorithms"
+  },
+  {
+    "name": "CS 6200",
+    "title": "Cyberphysical Security"
+  },
+  {
+    "name": "CS 6300",
+    "title": "Software Engineering Leadership"
+  },
+  {
+    "name": "CS 6400",
+    "title": "Modern Databases"
+  },
+  {
+    "name": "CS 6460",
+    "title": "Artificial Intelligence"
+  },
+  {
+    "name": "CS 6470",
+    "title": "Machine Learning"
+  },
+  {
+    "name": "CS 6480",
+    "title": "Advanced Machine Learning"
+  },
+  {
+    "name": "CS 6500",
+    "title": "Software Architecture"
+  },
+  {
+    "name": "CS 6510",
+    "title": "Design and Simulation of Operating Systems"
+  },
+  {
+    "name": "CS 6600",
+    "title": "Graduate Project I"
+  },
+  {
+    "name": "CS 6610",
+    "title": "Graduate Project II"
+  },
+  {
+    "name": "CS 6620",
+    "title": "Advanced Data Mining and Visualization"
+  },
+  {
+    "name": "CS 6700",
+    "title": "Advanced Mathematics for Computer Science"
+  },
+  {
+    "name": "CS 6730",
+    "title": "Advanced Embedded Systems Engineering"
+  },
+  {
+    "name": "CS 6800",
+    "title": "Computer Graphics and Mixed Realities"
+  }
+]
