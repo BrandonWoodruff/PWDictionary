@@ -1,11 +1,11 @@
 {
   "dependencies": {
+    "progress": "^2.0.3",
     "puppeteer": "^22.6.1"
   },
   "name": "newproject",
   "version": "1.0.0",
   "main": "scrapePws.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
