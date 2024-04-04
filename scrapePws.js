@@ -1,6 +1,6 @@
-import puppeteer from "puppeteer"
-import fs from "fs"
-import progressbar from "progress";
+import puppeteer from 'puppeteer'
+import fs from 'fs'
+import progressbar from 'progress'
 
 async function fail(errMsg,pageNum, pws, browser){
   console.error(errMsg)
@@ -18,15 +18,15 @@ const main = async () => {
   const pgStart = Number(args[0]) || 1
   const browser = await puppeteer.launch({headness: 'new'})
   const page = await browser.newPage()
-  const bar = new progressbar("[:bar] :percent :etas", { total: 100 - pgStart + 1}); // TOTO use correct num
+  const bar = new progressbar('[:bar] :percent :etas', { total: 100 - pgStart + 1}) // TOTO use correct num
   var timer = setInterval(function () {
     if (bar.complete) {
-      clearInterval(timer);
+      clearInterval(timer)
     }
-  }, 100);
+  }, 100)
 
   // Navigate the page to a URL
-  await page.goto("https://www.passwordrandom.com/most-popular-passwords")
+  await page.goto('https://www.passwordrandom.com/most-popular-passwords')
 
   // Set screen size
   await page.setViewport({ width: 1080, height: 1024 })
@@ -45,7 +45,7 @@ const main = async () => {
     await page.goto(`https://www.passwordrandom.com/most-popular-passwords?page=${i + 1}`)
     // have it check the lengths of the arrays in pws
     for (let j = 0; j < pws.length - 1; j++) {
-      if (pws[j].length !== 100) await fail(`mcupws.json had ${pws[j].length} words, consider deleting mcupws.json`, pgStart, pws, browser);
+      if (pws[j].length !== 100) await fail(`mcupws.json had ${pws[j].length} words, consider deleting mcupws.json`, pgStart, pws, browser)
     }
     bar.tick()
   }
