@@ -27,8 +27,13 @@
 
 let file = 'mcupws.json'
 
-const fs = require('fs')
+import fs from 'fs'
 const data = fs.readFileSync(file)
 const pws = JSON.parse(data)
 
-for 
+if (pws.filter(pw => /^[a-zA-Z0-9]+$/.test(pw))) {
+  console.log('All passwords are alphanumeric')
+}
+else {
+  console.log('Not all passwords are alphanumeric')
+}
